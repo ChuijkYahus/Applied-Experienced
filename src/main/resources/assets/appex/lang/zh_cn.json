@@ -1,7 +1,7 @@
 {
   "block.appex.experience_acceptor": "ME经验接收器",
   "block.appex.experience_converter": "经验储罐",
-  "item.appex.cable_experience_acceptor": "经验储罐",
+  "item.appex.cable_experience_acceptor": "ME经验接收器",
   "item.appex.experience_acceptor": "ME经验接收器",
   "item.appex.experience_access_terminal": "ME经验访问终端",
   "item.appex.experience_cell_housing": "ME经验元件外壳",
